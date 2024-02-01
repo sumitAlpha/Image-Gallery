@@ -1,0 +1,1 @@
+This simple Image Gallery is built using HTML and CSS to showcase a collection of images in a visually appealing way. The goal is to provide a clean and responsive gallery that can be easily integrated into web projects.
